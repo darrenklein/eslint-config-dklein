@@ -19,11 +19,11 @@ Locally, you will need a `.eslintrc` file to handle your app's ESLint configurat
 
 In your local `.eslintrc` file, add this set of shared rules via the `extends` property:
 
-    "extends": "eslint-config-circles"
+    "extends": "eslint-config-dklein"
 
 or
 
-    "extends": ["eslint-config-circles", "plugin:react/all"]
+    "extends": ["eslint-config-dklein", "plugin:react/all"]
 
 if you need more than one option in the `extends` property.
 

@@ -1,11 +1,8 @@
 {
-  "name": "eslint-config-circles",
+  "name": "eslint-config-dklein",
   "version": "1.0.0",
-  "description": "ESLint configuration for Circles projects",
+  "description": "ESLint rules configuration",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "author": "Darren Klein",
   "license": "ISC"
 }
